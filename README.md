@@ -28,7 +28,7 @@ The Kaggle competition that motivates this project uses **Weighted Mean Absolute
 
 ## Dataset
 
-Four CSV files are provided by the [Kaggle Walmart Store Sales Forecasting competition](https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr):
+Four CSV files are provided by the [Kaggle Walmart Recruiting Store Sales Forecasting](https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr):
 
 | File | Rows | Description |
 |------|------|-------------|
