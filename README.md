@@ -28,7 +28,7 @@ The Kaggle competition that motivates this project uses **Weighted Mean Absolute
 
 ## Dataset
 
-Four CSV files are provided by the [Kaggle Walmart Store Sales Forecasting competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting):
+Four CSV files are provided by the [Kaggle Walmart Store Sales Forecasting competition](https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr):
 
 | File | Rows | Description |
 |------|------|-------------|
@@ -71,6 +71,39 @@ Four CSV files are provided by the [Kaggle Walmart Store Sales Forecasting compe
 | 9 | Final Packaging (Notebook, README, Report) |
 
 ---
+## Exploratory Data Analysis
+
+### Weekly Sales Distribution
+
+![Weekly Sales Distribution](eda_plots/01_target_distribution.png)
+
+### Weekly Sales Trend
+
+![Weekly Sales Trend](eda_plots/03_weekly_total_sales_trend.png)
+
+### Monthly Sales Seasonality
+
+![Monthly Sales Seasonality](eda_plots/05_monthly_seasonality.png)
+
+### Store Mean Sales
+
+![Store Mean Sales](eda_plots/07_store_mean_sales.png)
+
+### Department Mean Sales
+
+![Department Mean Sales](eda_plots/09_dept_top20_mean_sales.png)
+
+### Holiday Week Sales
+
+![Holiday Week Sales](eda_plots/14_holiday_week_sales.png)
+
+### External Feature Distributions
+
+![External Feature Distributions](eda_plots/15_external_feature_distributions.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](eda_plots/19_correlation_heatmap.png)
 
 ## Machine Learning Approach
 
